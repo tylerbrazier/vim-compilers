@@ -13,4 +13,6 @@ CompilerSet errorformat=
 			\%-GLinting:\ %.%#,
 			\%-GSummary:\ %.%#,
 			\%f:%l:%c\ %trror\ MD%n/%m,
-			\%f:%l\ %trror\ MD%n/%m
+			\%f:%l\ %trror\ MD%n/%m,
+			\%f:%l:%c\ %trror\ %m,
+			\%f:%l\ %trror\ %m
